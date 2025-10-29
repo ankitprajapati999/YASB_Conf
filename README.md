@@ -62,9 +62,11 @@ Replace the files in your local YASB config folder with the ones from this repo:
 Backup your existing yasb folder if you already have one.
 
 
-Copy all files from this repo (config/, shared/, etc.) into:
+Copy all files from this repo's yasb folder into:
 
 C:\Users\<YourUserName>\.config\yasb
+
+open the config.yaml file and find wheather widget in the api section place your weather api  // Get free wheather api from "https://www.weatherapi.com/"
 Restart YASB (or log out and back in).
 
 ### 5️⃣ Done 🎉
