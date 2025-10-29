@@ -72,9 +72,12 @@ You should now see my custom YASB layout running on your system.
 Tweak it, remix it, or flex it your own way.
 
 ### 📦 Folder Structure
-yasb-config/
-├── config          # 
-└── README.md       # This documentation
+```
+─ YASBconf
+  ├── config.yaml
+  ├── style.css
+─ README.md       # This documentation
+```
 
 ### 🧩 Notes
 Don’t redistribute the YASB .exe — it’s owned by the original developer.
@@ -83,10 +86,10 @@ You can install it using Chocolatey or from the official repo.
 
 You’re free to modify my configs as you like — just credit if you publish your version publicly.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Lightning Ankit (a.k.a. Light)
 Python Developer
 
-🫶 Credits
+### 🫶 Credits
 Huge respect to the original YASB developer and modifier: @da-rth, @amnweb
 This repo only contains my custom configuration files, not the original YASB code.
